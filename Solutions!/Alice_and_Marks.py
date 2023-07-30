@@ -5,4 +5,4 @@ if (x>=2*y):
     print('yes')
 else:
     print("no")
-
+#output

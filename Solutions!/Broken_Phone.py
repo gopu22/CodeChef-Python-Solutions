@@ -8,4 +8,4 @@ for i in range(int(input())):
         print("NEW PHONE")
     else:
         print("ANY")
-
+# final output
